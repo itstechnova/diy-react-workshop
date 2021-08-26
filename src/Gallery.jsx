@@ -66,7 +66,7 @@ export const Gallery = () => {
   return (
     <>
       {/* Something */}
-      <p>Welcome to the skeleton! Please open the file: Gallery.jsx</p>
+      <p>Welcome to the skeleton! Please copy your code into the files: Gallery.jsx, styles.css</p>
     </>
   );
 };
