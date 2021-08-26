@@ -1,0 +1,27 @@
+/* 
+===========================================================
+  This is a CSS file used for styling! 
+=========================================================== 
+  Note: since this workshop is a React focused one, I will 
+  NOT be going into details with CSS. 
+  Refer to the slides for some CSS resources at the end :)
+  https://tinyurl.com/react-workshop-slides
+*/
+
+/* 
+  App refers to the component in our App.js file.
+  This it the base styling for the whole website!
+*/
+.App {
+  font-family: sans-serif;
+  /* Try changing [center] to [left] or [right]! */
+  text-align: center;
+}
+
+/* styling for picture-card */
+.picture-card {
+  width: 100px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 0 #FF6078;
+}

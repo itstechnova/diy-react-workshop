@@ -1,3 +1,16 @@
+/* 
+===========================================================
+  PLEASE DO NOT MODIFY THIS FILE!!!!!!  
+=========================================================== 
+*/
+
+/*
+  This is the entry point for our React project, and is 
+  automatically generated with the create-react-app template!
+  You don't need to know the specifics, but if you're curious
+  check out https://create-react-app.dev/docs/getting-started
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
