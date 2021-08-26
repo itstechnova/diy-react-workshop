@@ -17,11 +17,3 @@
   /* Try changing [center] to [left] or [right]! */
   text-align: center;
 }
-
-/* styling for picture-card */
-.picture-card {
-  width: 100px;
-  margin: 10px;
-  border-radius: 10px;
-  box-shadow: 5px 5px 0 #FF6078;
-}
